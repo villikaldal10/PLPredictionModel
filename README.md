@@ -7,4 +7,6 @@ As well as I uploaded the "Main_PL_Predictor", I will upload the notebooks that 
 
 For more detailed information regarding my project please watch this video I made about the whole process: https://youtu.be/tc7ydd2bghs
 
+The dataset I mention in my video with more features included can also be found as "more_features_results"
+
 Thank you!
